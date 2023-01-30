@@ -17,3 +17,20 @@ A Business Questions examples:
 
 5-	Which is the group of customers in purchase taking into account the categories.
 
+
+
+
+
+
+BikeMarket é uma empresa portuguesa de vendas online focada principalmente em bicicletas e seus acesssórios, vende muitas marcas de bicicletas bem conhecidas. A forma se diferencia dos seus concorrentes é que presta muita atenção a todos os detalhes. O objetivo final da empresa é sempre manter nossos clientes felizes e satisfeitos. Atualmente, possui presença em Portugal, Espanha, Itália, França entre outos países. Possui uma coleção de bicletas de diferentes modelos, acessórios, categorias e marcas diferentes. Atualmente a empresa possui um grande conjunto de dados sobre os productos, vendas e clientes os quais estão subdividos em grupos. 
+Questões de negócio.
+
+1-	A BikeMarket pretende criar uma loja física em determinado país, para tal deseja selecionar o mesmo da melhor forma possível tendo em conta o seguinte critério: que seja o mais com a maior quantidade média de venda por cada ano.
+
+2-	A necessidade não passa apenas por construir um loja física, se pretende que a loja fisíca esteja mais proxima do maior grupo de clientes. Em que cidade se encontram os maiores grupos de clientes do país seleccionado.
+
+3-	Pretende-se saber também conhecer as percentangens de vendas em cada categoria num determinado ano espécifico.
+
+4-	A BikeMarket pretende aumentar aumentar os productos mais vendidos por grupos de clientes, quais productos são mais vendidos em função do grupo de clientes.
+
+5-	Qual é o grupo de clientes em compra tendo em conta as categorias.
