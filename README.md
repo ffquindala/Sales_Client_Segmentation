@@ -18,7 +18,7 @@ A Business Questions examples:
 5-	Which is the group of customers in purchase taking into account the categories.
 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
